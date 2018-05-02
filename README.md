@@ -2,7 +2,7 @@
 
 ## About
 
-Modz download url https://github.com/frankpin/Mods/raw/master/com.king.candycrushsaga/com.frankpin.box.mod.candycrushsaga.modz
+Modz download url https://github.com/frankpin/modz/raw/master/com.frankpin.box.mod.candycrushsaga/com.frankpin.box.mod.candycrushsaga.modz
 
 the game's url of google play http://play.google.com/store/apps/details?id=com.king.candycrushsaga
            
@@ -19,8 +19,8 @@ https://youtu.be/bS-xHFxL-to
 
 For example:
 
-![](https://github.com/frankpin/Mods/blob/master/com.king.candycrushsaga/screenshot/screenshot01.jpg)
-![](https://github.com/frankpin/Mods/blob/master/com.king.candycrushsaga/screenshot/screenshot02.jpg)
+![](https://github.com/frankpin/modz/blob/master/com.frankpin.box.mod.candycrushsaga/screenshot/screenshot01.jpg)
+![](https://github.com/frankpin/modz/blob/master/com.frankpin.box.mod.candycrushsaga/screenshot/screenshot02.jpg)
 
 ## Notes
 

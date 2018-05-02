@@ -10,7 +10,7 @@ warning: some functions are awesome, they are only available for those who give 
 
 this mod can be used
 
-![](https://github.com/frankpin/Mods/blob/master/com.king.candycrushsaga/screenshot/screenshot03.jpg)
+![](https://github.com/frankpin/modz/blob/master/com.frankpin.box.mod.candycrushsaga/screenshot/screenshot03.jpg)
 
 ## About
 
